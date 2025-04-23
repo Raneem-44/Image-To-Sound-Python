@@ -26,3 +26,4 @@ if __name__ == "__main__":
 # # Fix grayscale audio mappig
 
 # Fix PNG crash with resizing . 
+# Add JPEG supported 
