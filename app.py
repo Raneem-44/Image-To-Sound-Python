@@ -25,3 +25,4 @@ if __name__ == "__main__":
     input()
 # Fix grayscale audio mappig.
 # Fix PNG crash with resizing.
+# Add JPEG support
