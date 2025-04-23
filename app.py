@@ -24,3 +24,4 @@ if __name__ == "__main__":
     image_to_sound("image.jpg")
     input()
 # Fix grayscale audio mappig.
+# Fix PNG crash with resizing.
