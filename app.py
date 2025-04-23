@@ -27,3 +27,4 @@ if __name__ == "__main__":
 
 # Fix PNG crash with resizing . 
 # Add JPEG supported 
+# Add pitch modulation
