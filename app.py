@@ -23,6 +23,6 @@ def image_to_sound(path_to_image):
 if __name__ == "__main__":
     image_to_sound("image.jpg")
     input()
-# Fix grayscale audio mappig.
+# Fix grayscale audio mappig..command
 # Fix PNG crash with resizing.
 # Add JPEG support.
